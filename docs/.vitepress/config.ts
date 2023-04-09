@@ -18,6 +18,7 @@ export default defineConfig({
           { text: '效果展示', link: '/show'},
           { text: '开始部署', link: '/start'},
           { text: '详细配置', link: '/config'},
+          { text: '后台操作', link: '/admin'}
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
